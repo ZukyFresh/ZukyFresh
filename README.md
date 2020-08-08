@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hey, I'm [Zuky][website]!
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Web Developer and Cybersecurity expert !
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -14,10 +14,12 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
+
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -37,18 +39,13 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+
+### Tools:
+
+<br />
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-<!-- YOUTUBE:END -->
 
 ---
 
@@ -70,6 +67,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
+[discord]: https://discord.gg/SzcSEZ
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
