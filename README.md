@@ -2,15 +2,17 @@
 
 ## Web Developer, Game Developer, eSport Player and Cybersecurity Fan !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 
+-
+-
+-
+-
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="codeSTACKr | Facebook width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -64,11 +66,13 @@
 
 <img align="left" alt="ZukyFresh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zukyfresh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://zukyfresh.cz
+[twitter]: https://twitter.com/FreshZuky
+[facebook]: https://facebook.com/zukyfresh
+[youtube]: https://youtube.com/channel/UCTAkC1lXbI4UueiSCvF7fCA
+[instagram]: https://instagram.com/zukyfresh/
+[linkedin]: https://linkedin.com/in/filip-opluštil-49a9661b3
+[twitch]: https://twitch.tv/ZukyFresh
 [discord]: https://discord.gg/SzcSEZ
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
