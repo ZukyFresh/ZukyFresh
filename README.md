@@ -52,4 +52,4 @@
 [instagram]: https://instagram.com/zukyfresh/
 [linkedin]: https://linkedin.com/in/filip-opluštil-49a9661b3
 [twitch]: https://twitch.tv/ZukyFresh
-[discord]: https://discord.gg/SzcSEZ
+[discord]: https://discord.gg/VCr2SRE
