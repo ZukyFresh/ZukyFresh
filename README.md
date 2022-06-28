@@ -1,6 +1,6 @@
 ### Hey, I'm [ZukyFresh][website]                                              
 
-## Web Developer, Game Developer, eSport Player and Cybersecurity Fan !
+## Web Developer, Game Developer, eSport Player and Cybersecurity Specialist !
 
 ### Connect with me:
 
