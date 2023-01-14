@@ -61,11 +61,6 @@
 [comment]: <
 
 /*asdfasdf*/
-## Hi there 👋
-
-### I'm António, a computer engineer based in Portugal.
-
-### I work with web technologies, mainly React, NodeJS and TypeScript.
 
 ## What I work with: 
 [![React](./icons/react.png)](https://reactjs.org)
