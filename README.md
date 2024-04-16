@@ -97,10 +97,10 @@
 
 ![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api?username=zukyfresh&show_icons=true&theme=merko)
 
-![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=karbust&repo=Metin2-Patcher-Electron&show_owner=true&show_icons=true&theme=merko)
+//![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=zukyfresh&repo=Metin2-Patcher-Electron&show_owner=true&show_icons=true&theme=merko)
 
-![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=karbust&repo=Metin2-API-Script&show_owner=true&show_icons=true&theme=merko)
+//![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=karbust&repo=Metin2-API-Script&show_owner=true&show_icons=true&theme=merko)
 
-![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=karbust&repo=Mukari2Patcher&show_owner=true&show_icons=true&theme=merko)
+//![Karbust's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=karbust&repo=Mukari2Patcher&show_owner=true&show_icons=true&theme=merko)
 
-![Karbust's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karbust&layout=compact&hide=C,C%2B%2B,HTML,Python,C%23,M4,Perl,Batchfile,Shell,CMake&theme=merko) >
+//![Karbust's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karbust&layout=compact&hide=C,C%2B%2B,HTML,Python,C%23,M4,Perl,Batchfile,Shell,CMake&theme=merko) >
