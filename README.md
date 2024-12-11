@@ -1,20 +1,22 @@
-### Hey, I'm [ZukyFresh][website]                                              
+### Hey, I'm [ZukyFresh][website]   
 
-$$$$$$$$\          $$\                 $$$$$$$$\                            $$\       
-\____$$  |         $$ |                $$  _____|                           $$ |      
-    $$  /$$\   $$\ $$ |  $$\ $$\   $$\ $$ |    $$$$$$\   $$$$$$\   $$$$$$$\ $$$$$$$\  
-   $$  / $$ |  $$ |$$ | $$  |$$ |  $$ |$$$$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\ 
-  $$  /  $$ |  $$ |$$$$$$  / $$ |  $$ |$$  __|$$ |  \__|$$$$$$$$ |\$$$$$$\  $$ |  $$ |
- $$  /   $$ |  $$ |$$  _$$<  $$ |  $$ |$$ |   $$ |      $$   ____| \____$$\ $$ |  $$ |
-$$$$$$$$\\$$$$$$  |$$ | \$$\ \$$$$$$$ |$$ |   $$ |      \$$$$$$$\ $$$$$$$  |$$ |  $$ |
-\________|\______/ \__|  \__| \____$$ |\__|   \__|       \_______|\_______/ \__|  \__|
-                             $$\   $$ |                                               
-                             \$$$$$$  |                                               
-                              \______/                                                
+Curentrly working for [FIRMA][website]
+
+$$$$$$$$\          $$\                 $$$$$$$$\                            $$\       <br>
+\____$$  |         $$ |                $$  _____|                           $$ |      <br>
+    $$  /$$\   $$\ $$ |  $$\ $$\   $$\ $$ |    $$$$$$\   $$$$$$\   $$$$$$$\ $$$$$$$\  <br>
+   $$  / $$ |  $$ |$$ | $$  |$$ |  $$ |$$$$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\ <br>
+  $$  /  $$ |  $$ |$$$$$$  / $$ |  $$ |$$  __|$$ |  \__|$$$$$$$$ |\$$$$$$\  $$ |  $$ |<br>
+ $$  /   $$ |  $$ |$$  _$$<  $$ |  $$ |$$ |   $$ |      $$   ____| \____$$\ $$ |  $$ |<br>
+$$$$$$$$\\$$$$$$  |$$ | \$$\ \$$$$$$$ |$$ |   $$ |      \$$$$$$$\ $$$$$$$  |$$ |  $$ |<br>
+\________|\______/ \__|  \__| \____$$ |\__|   \__|       \_______|\_______/ \__|  \__|<br>
+                             $$\   $$ |                                               <br>
+                             \$$$$$$  |                                               <br>
+                              \______/                                                <br>
 
 ## Dont mind me, I am just code typing monkey!
 
-### Connect with me:
+### Connect with me: (udelat to tak aby to bylo barevny?
 
 [<img align="left" alt="ZukyFresh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ZukyFresh | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
@@ -55,6 +57,17 @@ $$$$$$$$\\$$$$$$  |$$ | \$$\ \$$$$$$$ |$$ |   $$ |      \$$$$$$$\ $$$$$$$  |$$ |
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 <br />
+
+rozdelit jazyky a nastroje + frameworky podle:
+
+###Backend
+###Frontend
+###Blockchain
+###Database
+###AI and LLMs
+###Cloud Servers
+###Other
+
 
 ---
 
