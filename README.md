@@ -1,3 +1,10 @@
+WHOLE README PAGE IS UNDER CONSTRUCTION THANKS :)
+
+
+Giorno's Theme - JoJo's Bizarre Adventure: Golden Wind
+────────────⚪────────────────────────────────────
+◄◄⠀▐▐ ⠀►►⠀⠀　　⠀ 1:36 / 3:26　　　　🔇 ───○ 🔊⠀　　　ᴴᴰ ⚙
+
 <!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
