@@ -1,3 +1,826 @@
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
+
+<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h3 align="center">A passionate fullstack developer from China</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+
+
+<details open>
+ <summary> 😇 <b>Medium Published articles</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
+  <br>
+
+</details>
+
+
+### 🎧 Spotify Playing
+
+![spotify-github-profile](/img/default.svg)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+
+
+### :dart: Weekly Fuck The Code
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+### :sparkles: My Followers
+
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoochanlon">
+        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoochanlon">123456</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/victoryang00">
+        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
+      </a>
+      <br />
+      <a href="https://github.com/victoryang00">Yiwei Yang</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Hexzilla">
+        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hexzilla">Hexzilla</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lichengtao1989">
+        <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
+      </a>
+      <br />
+      <a href="https://github.com/lichengtao1989">mycodelct</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guanguans">
+        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
+      </a>
+      <br />
+      <a href="https://github.com/guanguans">guanguans</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaTechnolog">Franklin Gabriel Guerra</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+- :computer: PC/Mac:
+    - M4 MacMini 16G+512G
+    - M1 Pro 16寸 16G+512G
+    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
+    - MacBookPro2015 16G 256SSD
+    - Mac Mini m1 16G 512SSD
+    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
+    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
+    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
+    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
+    - AMD-4700GE  32G+16T+750Ti Exsi（LinuxMint+Win10）
+    - AMD-4700GE  32G+3T Exsi（LinuxMint+Win10）
+    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
+    - 蜗牛星际 J1900+4G +3T DSM918+
+    - 威联通QNAP TS462C 500G
+    - 威联通QNAP TVS-675 8h8c
+    - ZimaBoard
+    - Gen8
+    - 硬酷R1 N6005 16+512
+    - UGREEN DX4600
+    - i7-6700t 32G 18TB Exsi(Win10 + Ubuntu)
+    - MINISFORUM um790 Pro 16G 2TSSD Linux
+    - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
+    - i5-4790 16G 60G 1T Linux Mint
+    - Dell R730XD(ESXi + 8Ubuntu + Win10)
+
+- :iphone: phone/iPhone:
+    - iPhone12
+    - OnePlus6
+    - OnePlus13
+
+- :camera: Camera:
+    - Sony A6000
+    - Sony A6400
+    - Sony A7M4
+
+- :microphone: Mic:
+    - SM7B + ID14MKII
+    - MAONO PM320T + E2
+
+| :pencil2: | :video_game: | :book: |:clapper:  |
+| --- | --- | --- | --- |
+| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#343](https://github.com/itgoyo/500Days-Of-Github/issues/343) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🗣 Commented on [#158](https://github.com/itgoyo/500Days-Of-Github/issues/158#issuecomment-2597536400) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+<!--END_SECTION:activity-->
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittinan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+---
+
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+</div>
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+
+### Cybersecurity Projects
+
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+</p>
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+### About me
+
+* 🎨 Frontend engineer who loves React, React Native and Electron.
+
+* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+
+* 🔥 I really love the thrill of making what I want possible!
+
+* 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
+
+<div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+</div>
+
+<br/>
+
+[![Github Follow](https://img.shields.io/github/followers/HwangTaehyun?label=Follow%20Me&style=social)](https://github.com/HwangTaehyun)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<strong>Holopin badges</strong>
+
+[![@taehyunhwang's Holopin board](https://holopin.me/taehyunhwang)](https://holopin.io/@taehyunhwang)
+
+<strong>Github stats</strong>
+
+![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
+<a href="https://github.com/HwangTaehyun/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
+
+<strong>Top Repositories</strong>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
+
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
+
+<strong>Stackoverflow stats</strong>
+
+<a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
+
+
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Senior Robotics Software Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences:
+  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
+2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%206%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 335.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                343 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+🌆 Daytime                2355 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
+🌃 Evening                2964 commits        ███████████░░░░░░░░░░░░░░   44.50 % 
+🌙 Night                  999 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+C++                      5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+Python                   5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+TypeScript               3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+XML                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+
+🐱‍💻 Projects: 
+terminal                 4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+emp-agents               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+si_vtol_swarm            3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+arrc_si_bt_bringup       2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+arrc_si_bt_plugins       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+```
+
+
+ Last Updated on 22/01/2025 12:44:05 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 21 January 2025
+
+Total Time: 1,924 hrs 37 mins
+
+C++                704 hrs 14 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.59 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.28 %
+Python             261 hrs 42 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.60 %
+C                  144 hrs 59 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.53 %
+Bash               88 hrs 32 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.60 %
+YAML               85 hrs 14 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.43 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
+### **Having fun with these stack 👨🏽‍💻**
+
+<br/>
+<div>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+<br/>
+
+### and more >w<
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+<br/>
+
+### Can you break this counter?
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kelvinosse)
+
+</div>
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
+
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div></td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/RishavAnandDev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/RishavAnandDev" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<pre>
+
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ VAPT
+├─▣ Author of seeker and finalrecon
+├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
+├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
+├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
+├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
+
+
+Hi there, I'm Charles a bioinformatics engineer.
+
+- :computer: I'm currently working for :whale: [MoBiDiC](https://github.com/mobidic) at :hospital: [CHU Montpellier](https://www.chu-montpellier.fr/en/)
+- :school: I'm currently learning : flask, streamlit
+- :dart: Fun fact : I already made a Robin Hood in darts (twice)
+
+</details>
+
+
+<details>
+  <summary><b>Where to find me</b></summary>
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-van-goethem/)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Charles_Van_Goethem)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Char_Al_)
+
+[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
+[![TwitterMobidic](https://github-readme-twitter.gazf.vercel.app/api?id=MoBiDiC_BioInfo&layout=wide)](https://twitter.com/MoBiDiC_BioInfo)
+
+</details>
+
+
+<details>
+  <summary><b>Skills</b></summary>
+
+[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![perl](https://img.shields.io/badge/perl-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)](https://www.perl.org/)
+[![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+
+[![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+
+[![WDL](https://img.shields.io/badge/WDL-★★★-lightgrey?labelColor=3097ba&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0ibm9uZSIvPjxkZWZzPjxmaWx0ZXIgaWQ9ImYwNjYiIGlua3NjYXBlOmxhYmVsPSJNZXRhbGxpemVkIHBhaW50IiB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIgaW5rc2NhcGU6bWVudT0iTWF0ZXJpYWxzIiBpbmtzY2FwZTptZW51LXRvb2x0aXA9Ik1ldGFsbGl6ZWQgZWZmZWN0IHdpdGggYSBzb2Z0IGxpZ2h0aW5nLCBzbGlnaHRseSB0cmFuc2x1Y2VudCBhdCB0aGUgZWRnZXMiIGhlaWdodD0iMS4xIiB3aWR0aD0iMS4xIiB5PSItLjA1IiB4PSItLjA1IiBjb2xvci1pbnRlcnBvbGF0aW9uLWZpbHRlcnM9InNSR0IiPgogICAgICAgICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxIiByZXN1bHQ9InJlc3VsdDEiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGluPSJyZXN1bHQxIiBpbjI9InJlc3VsdDEiIHJlc3VsdD0icmVzdWx0NCIgb3BlcmF0b3I9ImluIi8+CiAgICAgICAgICAgIDxmZUJsZW5kIGluPSJyZXN1bHQxIiBtb2RlPSJzY3JlZW4iIHJlc3VsdD0icmVzdWx0NSIgaW4yPSJyZXN1bHQ0Ii8+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjgiIHJlc3VsdD0icmVzdWx0NiIgaW49InJlc3VsdDUiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIG9wZXJhdG9yPSJhdG9wIiBpbj0icmVzdWx0NiIgaW4yPSJyZXN1bHQ1IiByZXN1bHQ9InJlc3VsdDgiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJmYlNvdXJjZUdyYXBoaWMiIGluPSJyZXN1bHQ2IiBpbjI9InJlc3VsdDgiLz4KICAgICAgICAgICAgPGZlR2F1c3NpYW5CbHVyIHJlc3VsdD0icmVzdWx0MCIgaW49ImZiU291cmNlR3JhcGhpYyIgc3RkRGV2aWF0aW9uPSIyLjUiLz4KICAgICAgICAgICAgPGZlU3BlY3VsYXJMaWdodGluZyBzcGVjdWxhckV4cG9uZW50PSI0NSIgc3BlY3VsYXJDb25zdGFudD0iMS41IiBzdXJmYWNlU2NhbGU9IjEiIGxpZ2h0aW5nLWNvbG9yPSIjZmZmIiByZXN1bHQ9InJlc3VsdDEiIGluPSJyZXN1bHQwIj4KICAgICAgICAgICAgICAgIDxmZVBvaW50TGlnaHQgej0iMjEwMDAiIHk9Ii05MDAwIiB4PSItNjAwMCIvPgogICAgICAgICAgICA8L2ZlU3BlY3VsYXJMaWdodGluZz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJyZXN1bHQyIiBpbj0icmVzdWx0MSIgaW4yPSJmYlNvdXJjZUdyYXBoaWMiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGszPSIxIiBrMj0iMSIgb3BlcmF0b3I9ImFyaXRobWV0aWMiIHJlc3VsdD0icmVzdWx0NCIgaW49ImZiU291cmNlR3JhcGhpYyIgaW4yPSJyZXN1bHQyIi8+CiAgICAgICAgICAgIDxmZUNvbXBvc2l0ZSBvcGVyYXRvcj0iaW4iIGluPSJyZXN1bHQ5IiBpbjI9InJlc3VsdDQiIHJlc3VsdD0icmVzdWx0OTEiLz4KICAgICAgICAgICAgPGZlQmxlbmQgbW9kZT0ibXVsdGlwbHkiIGluMj0icmVzdWx0OTEiLz4KICAgICAgICA8L2ZpbHRlcj48L2RlZnM+PHRpdGxlPkFydGJvYXJkIDE8L3RpdGxlPjxnIGNsYXNzPSJjdXJyZW50TGF5ZXIiIHN0eWxlPSIiPjx0aXRsZT5MYXllciAxPC90aXRsZT48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMzUuNDEgNTkuNzEgMjIuNTEgNjcuMjEgMjIuNTEgODIuMjEgMzUuNDEgODkuNzEgNDguNDEgODIuMjEgNDguNDEgNjcuMjEgMzUuNDEgNTkuNzEiIGlkPSJzdmdfMSIgb3BhY2l0eT0iMSIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIxIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjY0LjIxIDM1IDUxLjIyIDQyLjUgNTEuMjIgNTcuNSA1OC40MSA2MS42NSA1MS4yMiA2NS44IDUxLjIyIDcyLjQ0IDY0LjIxIDY1IDc3LjIgNTcuNSA3Ny4yIDQyLjUgNjQuMjEgMzUiIGlkPSJzdmdfMiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIxIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjYxLjQgMzMuNzIgNDguNDEgMjYuMjggNDguNDEgMTcuOTEgMzUuNDEgMTAuNDEgMjIuNTEgMTcuOTEgMjIuNTEgMzIuOTEgMzUuNDEgNDAuNDEgNDguNDEgMzIuOTEgNTUuNiAzNy4wNiA2MS40IDMzLjcyIiBpZD0ic3ZnXzMiIG9wYWNpdHk9IjEiIGZpbHRlcj0iIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjEiLz48L2c+PC9zdmc+)](https://openwdl.org/)
+[![SnakeMake](https://img.shields.io/badge/SnakeMake-★☆☆-lightgrey?labelColor=3097ba&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHN0eWxlPSIiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIi8+CgoKPGcgY2xhc3M9ImN1cnJlbnRMYXllciIgc3R5bGU9IiI+PHRpdGxlPkxheWVyIDE8L3RpdGxlPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsIDIwMCkgc2NhbGUoMC4xLCAtMC4xKSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIiBpZD0ic3ZnXzEiIGNsYXNzPSJzZWxlY3RlZCIgZmlsbC1vcGFjaXR5PSIxIj4KPHBhdGggZD0iTTU4NCAxNzYxIGMtMzQ4IC05OSAtNDgwIC01NDMgLTI0NCAtODIwIDM2IC00MyA1MyAtMzQgNDQgMjQgLTEzIDkyIDUzIDIzMCAxNDEgMjk0IDk2IDY5IDY1IDY1IDY1MiA3MSBsNTMzIDUgMzEgMzEgYzI1IDI2IDMxIDQwIDMxIDczIC0xIDc5IC0xMTQgMjIzIC0yMjAgMjc5IC0xMDcgNTcgLTE0OCA2MiAtNTQ3IDYxIC0zMTIgMCAtMzY4IC0zIC00MjEgLTE4eiBtODUxIC0xMTMgYzQ5IC0yMiA0NCAtMTA0IC03IC0xMjIgLTc0IC0yNiAtMTI2IDg4IC01NiAxMjIgMzAgMTQgMzMgMTQgNjMgMHoiIGlkPSJzdmdfMiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIxIi8+CjxwYXRoIGQ9Ik02MjIgMTE4NCBjLTE3MCAtODUgLTE1NiAtMzI5IDIzIC00MDUgMjEgLTkgMTMyIC0xNSAzODUgLTE4IDMzNyAtNiAzNTcgLTcgNDAyIC0yOCAxMjAgLTU1IDE5OCAtMTc0IDIwNiAtMzE1IDMgLTQzIDggLTc4IDEyIC03OCAxNyAwIDc1IDc4IDEwNiAxNDQgMTE1IDI0NCAyMCA1NDIgLTIxMyA2NjggLTk4IDU0IC0xMzYgNTggLTUxOCA1OCBsLTM1MSAwIC01MiAtMjZ6IiBpZD0ic3ZnXzMiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMSIvPgo8cGF0aCBkPSJNMjg4IDYxNyBjLTUyIC00OCAtNDkgLTEwMCAxMiAtMTk0IDc1IC0xMTQgMTc4IC0xODYgMzA1IC0yMTQgNDMgLTkgMTU2IC0xMyA0MDAgLTEyIDM4NCAxIDM5OCAzIDQ1OSA3NCA3MyA4NiA3NSAyMDcgNCAyOTMgLTY0IDc3IC00OCA3NiAtNjM0IDc2IGwtNTIxIDAgLTI1IC0yM3oiIGlkPSJzdmdfNCIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIxIi8+CjwvZz48L2c+PC9zdmc+)](https://snakemake.readthedocs.io)
+
+[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+
+[![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
+
+[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+[![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+
+</details>
+
+
+<details>
+  <summary><b>OS & Tools</b></summary>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+
+![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
+![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
+![Rstudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
+
+![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
+![Pelican](https://img.shields.io/badge/-Pelican-14A0C4?logo=Pelican&style=for-the-badge&logoColor=white)
+![jinja](https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
+
+</details>
+
+
+<details>
+  <summary><b>Stats</b></summary>
+
+![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+![streak](https://github-contributor-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=char-al&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
+</details>
+
+<!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
+
+![](https://komarev.com/ghpvc/?username=Char-Al&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/char-al/char-al?color=black&logo=github&style=flat-square)
+
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
